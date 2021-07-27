@@ -1,0 +1,11 @@
+Model Information:
+* title:	Helmet Nord
+* source:	https://sketchfab.com/3d-models/helmet-nord-ed47af3b8bce4c3d820608c78a87aa31
+* author:	KIFIR (https://sketchfab.com/kifir)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Helmet Nord" (https://sketchfab.com/3d-models/helmet-nord-ed47af3b8bce4c3d820608c78a87aa31) by KIFIR (https://sketchfab.com/kifir) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
